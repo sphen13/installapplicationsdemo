@@ -14,8 +14,8 @@ def deplog(text):
 
 
 def main():
-    deplog("Command: Logout: Please logout now to start the disk encryption "
-           "process.")
+    deplog("Command: Quit: Your machine is now setup. Thank you"
+           "for your patience.")
 
 
 if __name__ == '__main__':

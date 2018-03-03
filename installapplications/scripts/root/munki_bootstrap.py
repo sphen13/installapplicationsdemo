@@ -95,8 +95,8 @@ def munkiappleupdates():
 
 def main():
     # Variables
-    munkiurl = 'https://raw.githubusercontent.com/erikng/installapplicationsdemo/master/munki'  # noqa
-    backupmanifest = 'production'
+    munkiurl = 'https://swupdate.overabove.com/repo'  # noqa
+    backupmanifest = 'required'
     try:
         if os.path.isdir('/Library/Managed Installs/icons'):
             copy_tree('/Library/Managed Installs/icons',
@@ -121,7 +121,7 @@ def main():
         kCFPreferencesAnyUser, kCFPreferencesCurrentHost)
 
     # Run Munki with manifest you want to use
-    munkirun('depdemo')
+    munkirun('dep')
 
     # Install downloaded packages
     munkiinstall()
