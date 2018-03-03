@@ -6,7 +6,7 @@
       "name": "Munki LaunchD",
       "packageid": "com.googlecode.munki.launchd",
       "type": "package",
-      "url": "https://raw.githubusercontent.com/sphen13/installapplicationsdemo/master/installapplications/pkgs/munkitools_launchd-3.0.3265.pkg",
+      "url": "https://raw.githubusercontent.com/sphen13/installapplicationsdemo/overabove/installapplications/pkgs/munkitools_launchd-3.0.3265.pkg",
       "version": "3.0.3265"
     },
     {
@@ -15,7 +15,7 @@
       "name": "Munki Core",
       "packageid": "com.googlecode.munki.core",
       "type": "package",
-      "url": "https://raw.githubusercontent.com/sphen13/installapplicationsdemo/master/installapplications/pkgs/munkitools_core-3.1.1.3447.pkg",
+      "url": "https://raw.githubusercontent.com/sphen13/installapplicationsdemo/overabove/installapplications/pkgs/munkitools_core-3.1.1.3447.pkg",
       "version": "3.1.1.3447"
     },
     {
@@ -24,7 +24,7 @@
       "name": "DEPNotify",
       "packageid": "menu.nomad.DEPNotify",
       "type": "package",
-      "url": "https://raw.githubusercontent.com/sphen13/installapplicationsdemo/master/installapplications/pkgs/DEPNotify-1.0.3.pkg",
+      "url": "https://raw.githubusercontent.com/sphen13/installapplicationsdemo/overabove/installapplications/pkgs/DEPNotify-1.0.3.pkg",
       "version": "1.0.3"
     }
   ],
@@ -35,28 +35,28 @@
       "hash": "92bb078979917a745febdfa10256831dfb4fb46ed0628af3b1e04bf5bbede910",
       "name": "Caffeinate Machine",
       "type": "rootscript",
-      "url": "https://raw.githubusercontent.com/sphen13/installapplicationsdemo/master/installapplications/scripts/root/caffeinate.py"
+      "url": "https://raw.githubusercontent.com/sphen13/installapplicationsdemo/overabove/installapplications/scripts/root/caffeinate.py"
     },
     {
       "file": "/Library/Application Support/installapplications/high_sierra_vm_bless.py",
       "hash": "52df572785e5b79806032049000450da463ecceeecc83671e1bc6bd61996248f",
       "name": "Bless VM",
       "type": "rootscript",
-      "url": "https://raw.githubusercontent.com/sphen13/installapplicationsdemo/master/installapplications/scripts/root/high_sierra_vm_bless.py"
+      "url": "https://raw.githubusercontent.com/sphen13/installapplicationsdemo/overabove/installapplications/scripts/root/high_sierra_vm_bless.py"
     },
     {
       "file": "/Library/Application Support/installapplications/munki_bootstrap.py",
       "hash": "70a5bed6797681659fd00b5351c06c4b802e671031a02cd102811ed6068b4cc8",
       "name": "Munki Bootstrap",
       "type": "rootscript",
-      "url": "https://raw.githubusercontent.com/sphen13/installapplicationsdemo/master/installapplications/scripts/root/munki_bootstrap.py"
+      "url": "https://raw.githubusercontent.com/sphen13/installapplicationsdemo/overabove/installapplications/scripts/root/munki_bootstrap.py"
     },
     {
       "file": "/Library/Application Support/installapplications/munki_launchd_loader.py",
       "hash": "954b7cec547dcc4e638991301ba600419e2b6aed15dc09ee412b1ba6218d31af",
       "name": "Munki LaunchD Loader",
       "type": "rootscript",
-      "url": "https://raw.githubusercontent.com/sphen13/installapplicationsdemo/master/installapplications/scripts/root/munki_launchd_loader.py"
+      "url": "https://raw.githubusercontent.com/sphen13/installapplicationsdemo/overabove/installapplications/scripts/root/munki_launchd_loader.py"
     },
     {
       "donotwait": true,
@@ -64,28 +64,28 @@
       "hash": "0ac1bef0c51c3eb2da95418abc691eb1eb02f1096b1ca7d709ffd669f620c13d",
       "name": "Munki Auto Trigger",
       "type": "rootscript",
-      "url": "https://raw.githubusercontent.com/sphen13/installapplicationsdemo/master/installapplications/scripts/root/munki_auto_trigger.py"
+      "url": "https://raw.githubusercontent.com/sphen13/installapplicationsdemo/overabove/installapplications/scripts/root/munki_auto_trigger.py"
     },
     {
       "file": "/Library/Application Support/installapplications/userscripts/dockutil.py",
       "hash": "1a8e8559e40c672ad63ecf136c31db4d2dc97a2bef8002a16497fa08bfbf6819",
       "name": "Dockutil User",
       "type": "userscript",
-      "url": "https://raw.githubusercontent.com/sphen13/installapplicationsdemo/master/installapplications/scripts/user/dockutil.py"
+      "url": "https://raw.githubusercontent.com/sphen13/installapplicationsdemo/overabove/installapplications/scripts/user/dockutil.py"
     },
     {
       "file": "/Library/Application Support/installapplications/make_user_admin.sh",
       "hash": "038989025527844e8992bb082a204551e3acb4f191557d06d5fe95df909b3085",
       "name": "Make Console User Admin",
       "type": "rootscript",
-      "url": "https://raw.githubusercontent.com/sphen13/installapplicationsdemo/master/installapplications/scripts/root/make_user_admin.sh"
+      "url": "https://raw.githubusercontent.com/sphen13/installapplicationsdemo/overabove/installapplications/scripts/root/make_user_admin.sh"
     },
     {
       "file": "/Library/Application Support/installapplications/depnotify_end.py",
       "hash": "24699717f8d82b3e85b80a4147b5be40fd3841b6d3bddd52f02eda6b0763db66",
       "name": "DEPNotify End",
       "type": "rootscript",
-      "url": "https://raw.githubusercontent.com/sphen13/installapplicationsdemo/master/installapplications/scripts/root/depnotify_end.py"
+      "url": "https://raw.githubusercontent.com/sphen13/installapplicationsdemo/overabove/installapplications/scripts/root/depnotify_end.py"
     }
   ]
 }

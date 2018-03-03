@@ -9,7 +9,7 @@
 		<string>/usr/bin/python</string>
 		<string>/Library/Application Support/installapplications/installapplications.py</string>
 		<string>--jsonurl</string>
-		<string>https://raw.githubusercontent.com/sphen13/installapplicationsdemo/master/installapplications/demo.json</string>
+		<string>https://raw.githubusercontent.com/sphen13/installapplicationsdemo/overabove/installapplications/demo.json</string>
 		<string>--depnotify</string>
 		<string>Command: WindowTitle: InstallApplicationsDemo</string>
 		<string>Command: Image: /Applications/Launchpad.app/Contents/Resources/Launchpad.icns</string>
