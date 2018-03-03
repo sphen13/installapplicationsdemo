@@ -95,7 +95,7 @@ def munkiappleupdates():
 
 def main():
     # Variables
-    munkiurl = 'https://swupdate.overabove.com/repo'  # noqa
+    munkiurl = 'http://swupdate.overabove.com/repo'  # noqa
     backupmanifest = 'required'
     try:
         if os.path.isdir('/Library/Managed Installs/icons'):

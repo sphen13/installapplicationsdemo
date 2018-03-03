@@ -46,7 +46,7 @@
     },
     {
       "file": "/Library/Application Support/installapplications/munki_bootstrap.py",
-      "hash": "70a5bed6797681659fd00b5351c06c4b802e671031a02cd102811ed6068b4cc8",
+      "hash": "2bdc5ca2e2c830bf5a68f5f1e79161bf6eac2f85f99ba3e77b6af2da0431fbfb",
       "name": "Munki Bootstrap",
       "type": "rootscript",
       "url": "https://raw.githubusercontent.com/sphen13/installapplicationsdemo/overabove/installapplications/scripts/root/munki_bootstrap.py"
